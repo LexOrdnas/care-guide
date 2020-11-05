@@ -37,10 +37,11 @@
     <!-- Inicio do COnteúdo -->
     <main>
         <section>
+        <a href="sair.php"> Sair </a>
             <div class="container mt-5 mb-4">
                 <div class="row">
                     <div class="col-md-6">
-                        <p class="text-cg"><b>Jorge Amado</b></p>
+                        <p class="text-cg">Jorge Amado</b></p>
                         <p class="text-card-cg"><small>Estudante</small></p>
                         <p class="text-card-cg">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing  layouts and visual mockups.
                             Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing  layouts and visual mockups.
@@ -67,7 +68,6 @@
                     </div>
                 </div>
         </section>
-        <a href="sair.php"> Sair </a>
     </main>
     <!-- Fim do Conteúdo -->
     

@@ -8,7 +8,6 @@ use care_guide;
 CREATE TABLE usuarios (
   id int(11) AUTO_INCREMENT primary key,
   nome varchar(30),
-  telefone varchar(30),
   email varchar(40),
   senha varchar(32)
 )
